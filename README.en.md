@@ -1,7 +1,7 @@
-# pic_2.0
+# picgo
 
 #### Description
-之前的图片仓库不好使了
+{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
 
 #### Software Architecture
 Software architecture description
